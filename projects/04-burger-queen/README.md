@@ -390,10 +390,18 @@ podrán hacer sus propios _forks_ a partir del _fork_ principal de su equipo.
 
 ### Despliegue
 
+En este sección revisamos algunas opciones para desplegar el backend y frontend de tu app. Si usas firebase con reglas de firestore, índices, y cloud functions, necesita desplegar el backend usando firebase-cli. 
+
+Puedes desplegar el frontend con Firebase hosting - pero hay otros opciones como Github Pages (que ya estan familiarizada), Netlify, y Heroku. 
+
+Netlify y Heroku son servicios a desplegar su web app - backend y frontend ambos - y no son limitados a usar solamente con Firebase. Por ejemplo, puedes desplegar un app MySQL/Express/React.
+
+#### Build para production
+
 Cada framework incluye su propio _pipeline_ de _construcción_ o _build_. Con
 esto nos referimos a que para _construir_ nuestro proyecto y producir un
-_artefacto_ que podamos desplegar vamos a usar usar un script que normalmente
-configuramos como una tarea de `npm-scrips` con el nombre `build` e invocamos
+_artefacto_ que podamos desplegar vamos a usar un script que normalmente
+configuramos como una tarea de `npm-scripts` con el nombre `build` e invocamos
 así:
 
 ```sh
@@ -404,6 +412,8 @@ Una vez hayamos _construido_ la aplicación, tendremos un directorio que contien
 la app lista para desplegar. Dependiendo del framework que uses y tu
 configuración en particular, esa carpeta puede tener un nombre distinto;
 normalmente `build` o `dist`.
+
+##### Firebase
 
 La herramienta de línea de comando de Firebase (`firebase-tools`) incluye un
 comando que nos permite desplegar nuestro proyecto a Firebase:
@@ -429,7 +439,26 @@ Finalmente, estás lista para desplegar tu proyecto a Firebase :rocket::fire:!
 firebase deploy
 ```
 
-***
+##### Netlify
+
+[Netlify](http://netlify.com) es un servicio para desplegar tu app. Para usarlo primero necesitas crear una cuenta http://netlify.com,
+y despues puedes conectar tu repo de github.
+
+Hay un [`netlify-cli`](https://docs.netlify.com/cli/get-started/) si prefieres desplegar de linea de comando.
+
+* [Netlify y Angular](https://www.netlify.com/blog/2019/09/23/first-steps-using-netlify-angular/)
+* Netlify y Vue
+  * https://medium.com/vue-mastery/deploying-a-vue-app-to-netlify-8f8f7d36f8fb
+  * https://cli.vuejs.org/guide/deployment.html#gitlab-pages
+* [Netlify y React](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)
+
+#### Github pages
+
+* [Github pages y Vue](https://cli.vuejs.org/guide/deployment.html#github-pages)
+* [Github pages y Angular](https://angular.io/guide/deployment#deploy-to-github-pages)
+* [Github pages y React](https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom)
+
+#### Heroku
 
 ### :information_source: Nota para estudiantes que elijan React y `create-react-app`
 
