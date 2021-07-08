@@ -6,23 +6,20 @@
 * [2. Resumo do projeto](#2-resumo-do-projeto)
 * [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
 * [4. Considerações gerais](#4-considerações-gerais)
-* [5. Critérios de aceitação mínimos do
-  projeto](#5-criterios-de-aceitação-mínimos-do-projeto)
+* [5. Critérios de aceitação mínimos do projeto](#5-critérios-de-aceitação-mínimos-do-projeto)
 * [6. Hacker edition](#6-hacker-edition)
 * [7. Considerações técnicas](#7-considerações-técnicas)
-* [8. Guias, dicas e leituras
-  complementares](#8-guias-dicas-e-leituras-complementares)
+* [8. Guias, dicas e leituras complementares](#8-guias-dicas-e-leituras-complementares)
 * [9. Checklist](#9-checklist)
 
 ***
 
 ## 1. Prefácio
 
-Cifrar significa codificar. A [cifra de
-César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar) é um dos primeiros
-tipos de criptografias conhecidas na história. O imperador romano Júlio César
-utilizava essa cifra para enviar ordens secretas aos seus generais no campo de
-batalha.
+Cifrar significa codificar. A [cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar)
+é um dos primeiros tipos de criptografias conhecidas na história.
+O imperador romano Júlio César utilizava essa cifra para enviar
+ordens secretas aos seus generais no campo de batalha.
 
 ![caeser-cipher](https://user-images.githubusercontent.com/11894994/60990999-07ffdb00-a320-11e9-87d0-b7c291bc4cd1.png)
 
@@ -39,14 +36,15 @@ Por exemplo se usarmos o deslocamento (_offset_) de 3 posições:
 * A palavra CASA será FDVD
 
 Atualmente todas as cifras de substituição alfabética simples, são decifradas
-com facilidade e não oferecem muita segurança na comunição, mas a cifra de César
-muitas vezes pode fazer parte de um sistema mais complexo de criptografia, como
+com facilidade e não oferecem muita segurança na comunicação por si mesma,
+mas a cifra de César muitas vezes pode fazer parte de um sistema
+mais complexo de criptografia, como
 a cifra de Vigenère, e tem aplicação no sistema ROT13.
 
 ## 2. Resumo do projeto
 
 O que eu tenho que fazer exatamente? Neste projeto você criará a primeira
-aplicação web do _bootcamp_. Nela o usuário poderá cifrar e decrifrar um texto
+aplicação web do _bootcamp_. Nela o usuário poderá cifrar e decifrar um texto
 indicando a chave de deslocamento (_offset_).
 
 O tema é livre. Você deve pensar em alguma situação de vida real em que seja
@@ -54,43 +52,25 @@ necessário cifrar uma mensagem e pensar em como deve ser a experiência do
 usuário (tela, explicações, mensagens, cores, marca?, etc.). Algumas ideias de
 exemplo:
 
-* Mensagens secretas para alguma pessoa.
-* Ferramenta de mensagens internas de uma organização em uma zona de conflito.
-* Cifrar cartões de crédito.
 * Criar senhas seguras para email.
-
-## 3. Objetivos de aprendizagem
+* Cifrar cartões de crédito.
+* Ferramenta de mensagens internas de uma organização
+  em uma zona de conflito.
+* Mensagens secretas para alguma pessoa.
 
 Neste projeto você aprenderá a construir uma aplicação web (_WebApp_) que irá
 interagir com o usuário final através do navegador utilizando HTML, CSS e
 JavaScript como ferramentas.
 
-Em outras palavras, você aprenderá:
+## 3. Objetivos de aprendizagem
 
-* Organizar o seu tempo e priorizar as tarefas em um ambiente com **alta
-  incerteza**.
-* Entender as **necessidade do usuário** e propor uma solução.
-* Entender a importância do processo de prototipação durante a criação de um
-  produto digital.
-* Conhecer os princípios básicos de desenho visual.
-* Utilizar _tags_ semânticas de HTML e elementos de formulário.
-* Mostrar elementos de formulário na tela usando **HTML** e **CSS**.
-* Utilizar diversos tipos de seletores no CSS: elementos, classe e id.
-* Utilizar o modelo de caixas do CSS (border, margin, padding).
-* Definir regras de estilo do CSS.
-* Permitir ao usuário interagir com elementos do DOM e fazer que a aplicação
-  responda (cifrar/descifrar) quando os **evento de DOM** ocorrerem.
-* Manipular _**strings**_ (cadeias de texto).
-* Usar **controle de fluxo** (loops, condicionais, ...).
-* Atualizar a tela com os resultados (**manipular o DOM**) através de
-  **innerHTML** ou **textContent**.
-* **Implementar uma função** dada a descrição do seu comportamento.
-* Verificar que as suas funções façam o esperado (**usando provas unitárias
-  (_unit test_) com Jest**).
-* Configurar a sua conta de git.
-* Fazer o _fork_ e _clone_ do repositório do projeto.
-* Manter o seu repositório remoto sempre atualizado (commit, pull, push).
-* Subir o seu projeto para o Github Pages.
+> ℹ️ Esta seção será automaticamente gerada no idioma pertinente, a partir dos
+> objetivos de aprendizagem declarados em [`project.yml`](./project.yml), ao
+> criar o repositório do projeto para uma coorte em particular usando
+> [`./scripts/create-cohort-project.js`](../../scripts#create-cohort-project-coaches).
+>
+> Aqui você pode ver uma [lista de todos os objetivos de aprendizagem](../../learning-objectives/data.yml)
+> cobertos em nosso currículo.
 
 ## 4. Considerações gerais
 
@@ -166,9 +146,7 @@ A lógica do projeto deve estar implementada inteiramente em JavaScript. Nesse
 projeto **NÃO** está permitido usar bibliotecas ou frameworks, só vanilla
 JavaScript.
 
-Você não deve usar a _pseudo-variable_ `this`.
-
-Os testes unitários devem cubrir no mínimo de 70% dos _statements_, _functions_
+Os testes unitários devem cobrir no mínimo de 70% dos _statements_, _functions_
 e _lines_, e um mínimo de 50% de _branches_. O _boilerplate_ já contem o setup e
 configurações necessárias para executar os testes assim como _code coverage_
 para ver o nível de cobertura dos testes usando o comando `npm test`.
@@ -210,7 +188,7 @@ arquivo `.eslintrc` que contem o mínimo de informação como versão do
 JavaScript/ECMAScript, o ambiente (_browser_ nesse caso) e as [regras
 recomendadas (`"eslint:recommended"`)](https://eslint.org/docs/rules/).
 
-Nas regras/guias de estilo usaremos das recomandações padrão tanto para o
+Nas regras/guias de estilo usaremos das recomendações padrão tanto para o
 `eslint` quanto `htmlhint`.
 
 ***
@@ -244,6 +222,9 @@ Nas regras/guias de estilo usaremos das recomandações padrão tanto para o
    navegador.
 8. Let's Code! :rocket:
 
+Este [video](https://drive.google.com/file/d/1CM6ZfpGfJMF6A8IcXoK5cFBBq-CY8oBR/view?usp=sharing)
+da Paloma também pode te ajudar nos seus primeiros passos ;)
+
 ### Recursos extras
 
 A seguir um vídeo do Daniel que te ajudará a entender a fórmula matemática usada
@@ -276,7 +257,9 @@ Desenvolvimento Front-end:
 
 Ferramentas:
 
-* GitHub y GitHub Pages.
+* [Terminal](https://www.loom.com/share/29a6cf0f3c5245bf995738284b706468)
+* [Git config](https://www.loom.com/share/c7d445872b9f4618a24605fdcb26a48d)
+* GitHub e GitHub Pages.
 
 Organização do trabalho:
 
@@ -300,12 +283,11 @@ Essa seção é para te ajudar a ter um controle do que você precisa completar.
 * [ ] `README.md` explicar claramente como o produto soluciona os
   problemas/necessidades dos usuários.
 * [ ] Usar VanillaJS.
-* [ ] **Não** usar `this`.
 * [ ] Implementar `cipher.encode`.
 * [ ] Implementar `cipher.decode`.
 * [ ] Passar o linter com a configuração definida.
 * [ ] Passar as provas unitárias.
-* [ ] Testes unitários cubrindo 70% dos _statements_, _functions_ e _lines_, e
+* [ ] Testes unitários cobrindo 70% dos _statements_, _functions_ e _lines_, e
   no mínimo 50% das _branches_.
 * [ ] Interface que permita escolher o `offset` (chave de deslocamento) usava
   para cifrar/decifrar.
@@ -317,5 +299,5 @@ Essa seção é para te ajudar a ter um controle do que você precisa completar.
 ### Parte Opcional: "Hacker edition"
 
 * [ ] Cifrar/decifrar minúsculas.
-* [ ] Cifrar/decifrar _outros_ caractéres (espações, pontuação, `ç`, `á`, ...).
+* [ ] Cifrar/decifrar _outros_ caractéres (espaços, pontuação, `ç`, `á`, ...).
 * [ ] Permitir usar `offset` negativo.
