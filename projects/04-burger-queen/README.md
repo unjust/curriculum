@@ -305,11 +305,18 @@ podrán hacer sus propios _forks_ a partir del _fork_ principal de su equipo.
 
 ### Despliegue
 
-En este sección revisamos algunas opciones para desplegar el backend y frontend de tu app. Si usas firebase con reglas de firestore, índices, y cloud functions, necesita desplegar el backend usando firebase-cli. 
+En este sección revisamos algunas opciones para desplegar  
+el backend y frontend de tu app.  
+Si usas firebase con reglas de firestore, índices, cloud functions,  
+necesita desplegar el backend con firebase-cli.
 
-Puedes desplegar el frontend con Firebase hosting - pero hay otros opciones como Github Pages (que ya estan familiarizada), Netlify, y Heroku. 
+Puedes desplegar el frontend con Firebase hosting.  
+Hay otros opciones como Github Pages (que ya estan familiarizada),  
+Netlify, y Heroku.
 
-Netlify y Heroku son servicios a desplegar su web app - backend y frontend ambos - y no son limitados a usar solamente con Firebase. Por ejemplo, puedes desplegar un app MySQL/Express/React.
+Netlify y Heroku son servicios a desplegar su web app - backend y  
+frontend ambos - y no son limitados a usar solamente con Firebase.  
+Por ejemplo, puedes desplegar un app MySQL/Express/React.
 
 #### Build para production
 
@@ -356,20 +363,22 @@ firebase deploy
 
 ##### Netlify
 
-[Netlify](http://netlify.com) es un servicio para desplegar tu app. Para usarlo primero necesitas crear una cuenta http://netlify.com,
-y despues puedes conectar tu repo de github.
+[Netlify](http://netlify.com) es un servicio para desplegar tu app.  
+Para usarlo primero necesitas crear una cuenta en [Netlify](http://netlify.com)
+y despues puedes conectar tu repo.
 
 * [Netlify y Angular](https://www.netlify.com/blog/2019/09/23/first-steps-using-netlify-angular/)
-* Netlify y Vue
-  * https://medium.com/vue-mastery/deploying-a-vue-app-to-netlify-8f8f7d36f8fb
-  * https://cli.vuejs.org/guide/deployment.html#gitlab-pages
+* [Netlify y Vue](https://cli.vuejs.org/guide/deployment.html#gitlab-pages)
+* [Netlify y Vue](https://medium.com/vue-mastery/deploying-a-vue-app-to-netlify-8f8f7d36f8fb)
 * [Netlify y React](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)
-
 
 ###### netlify cli
 
-Hay un `netlify-cli` si prefieres desplegar de linea de comando. Para usarlo, hay que instalar el cli en tu proyecto y authorizarlo.  
-Lee [Get Started](https://docs.netlify.com/cli/get-started/) para los comandos - pero es algo como asi:
+Hay un `netlify-cli` si prefieres desplegar de linea de comando.  
+Para usarlo, hay que instalar el cli en tu proyecto  
+y authorizarlo.  
+Lee [Get Started](https://docs.netlify.com/cli/get-started/)  
+para los comandos - pero es algo como asi:
 
 ```sh
 npm install netlify-cli --save-dev
@@ -378,17 +387,22 @@ netlify login
 
 Esta va a creer un `config.json` en tu proyecto.
 
-Puedes usar `netlify` con continuous deployment (cada vez hace actualiza tu repo va a desplegar su app) o con manual deploys. 
+Puedes usar `netlify` con continuous deployment (cada vez actualiza el repo  
+va a desplegar su app). También con manual deploys.  
 
-Para continuous deployment corre `netlify init` y sigue las instrucciones para conectar un repo de tu github. 
-Puedes configurar los deploy settings (build commando, directorio para desplegar, la rama para observar) en el "deploy settings" de tu site en netlify.
+Para continuous deployment corre `netlify init`  
+y sigue las instrucciones para conectar un repo de tu github.  
+Puedes configurar deploy settings (build commando, directorio,  
+la rama para observar) en "deploy settings" de tu site en netlify.
 
-Para desplegar manualmente puedes usar `netlify deploy`. También por default, va a buscar un directorio `build` en tu proyecto y desplegarlo.  
+Para desplegar manualmente puedes usar `netlify deploy`.  
+También por default, busca un directorio `build` en tu proyecto y desplegarlo.  
 Si tu proyecto tiene un directorio de otro nombre puede usar el `--dir` opcion.
 
 ```sh
 netlify deploy --dir=dist`
 ```
+
 #### Github pages
 
 * [Github pages y Vue](https://cli.vuejs.org/guide/deployment.html#github-pages)
