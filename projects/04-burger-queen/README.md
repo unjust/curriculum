@@ -359,13 +359,36 @@ firebase deploy
 [Netlify](http://netlify.com) es un servicio para desplegar tu app. Para usarlo primero necesitas crear una cuenta http://netlify.com,
 y despues puedes conectar tu repo de github.
 
-Hay un [`netlify-cli`](https://docs.netlify.com/cli/get-started/) si prefieres desplegar de linea de comando.
+
 
 * [Netlify y Angular](https://www.netlify.com/blog/2019/09/23/first-steps-using-netlify-angular/)
 * Netlify y Vue
   * https://medium.com/vue-mastery/deploying-a-vue-app-to-netlify-8f8f7d36f8fb
   * https://cli.vuejs.org/guide/deployment.html#gitlab-pages
 * [Netlify y React](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)
+
+
+###### netlify cli
+
+Hay un `netlify-cli` si prefieres desplegar de linea de comando. Para usarlo, hay que instalar el cli en tu proyecto y authorizarlo. Lee [Get Started](https://docs.netlify.com/cli/get-started/) para los comandos - pero es algo como asi:
+
+```
+npm install netlify-cli --save-dev
+netlify login
+```
+
+Esta va a creer un `config.json` en tu proyecto.
+
+Puedes usar `netlify` con continuous deployment (cada vez hace actualiza tu repo va a desplegar su app) o con manual deploys. 
+
+Para continuous deployment corre `netlify init` y sigue las instrucciones para conectar un repo de tu github. 
+Puedes configurar los deploy settings (build commando, directorio para desplegar, la rama para observar) en el "deploy settings" de tu site en netlify.
+
+Para desplegar manualmente puedes usar `netlify deploy`.
+También por default, va a buscar un directorio `build` en tu proyecto y desplegarlo. 
+Si tu proyecto tiene un directorio de otro nombre puede usar el `--dir` opcion.
+
+`netlify deploy --dir=dist`
 
 #### Github pages
 
