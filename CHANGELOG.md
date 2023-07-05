@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.1.0](https://github.com/unjust/bootcamp/compare/bootcamp-v1.0.0...bootcamp-v1.1.0) (2023-07-05)
+
+
+### Features
+
+* test card validation ([#13](https://github.com/unjust/bootcamp/issues/13)) ([c2b3820](https://github.com/unjust/bootcamp/commit/c2b382042e32a175c27d84ebe4d733d3ea1a817a))
+* **TopBar:** Quita título de menu de idioma ([#1404](https://github.com/unjust/bootcamp/issues/1404)) ([b896557](https://github.com/unjust/bootcamp/commit/b896557efe13d5799f5168a0f41a51761781273e))
+* **typescript:** BQ-API-Client con react y typescript ([#1408](https://github.com/unjust/bootcamp/issues/1408)) ([9435f0e](https://github.com/unjust/bootcamp/commit/9435f0e049963ea20e48641ea5414af8e6084115))
+
+
+### Bug Fixes
+
+* other fix no rebase ([6854c62](https://github.com/unjust/bootcamp/commit/6854c627e02ffb589be1e3fbe52927eee53131e6))
+* **project:** Arregla sección de tutorial de Glitch y borra stackblitz como opción en el proyecto Trivia ([#1415](https://github.com/unjust/bootcamp/issues/1415)) ([00bc0dc](https://github.com/unjust/bootcamp/commit/00bc0dc2cff19f28d3ab7be16e199af164f390de))
+* **YML:** Removes backticks from typescript/classes/this title in es and pt translations ([#1421](https://github.com/unjust/bootcamp/issues/1421)) ([31d2cae](https://github.com/unjust/bootcamp/commit/31d2cae9d565cf314068b4d8e9a592ec97334132))
+
 ## 1.0.0 (2023-07-05)
 
 
