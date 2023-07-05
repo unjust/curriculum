@@ -7,7 +7,7 @@
 
 import cipher from '../src/cipher';
 
-describe('cipher is the bestest', () => {
+describe('cipher is the bester', () => {
 
   it('should be an object', () => {
     expect(typeof cipher).toBe('object');
