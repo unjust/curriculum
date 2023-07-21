@@ -1,12 +1,12 @@
-{ 
-  ".": "6.4.0",
+{
+  ".": "6.5.0",
   "projects/00-how-might-we": "1.0.0",
   "projects/00-trivia": "1.1.0",
   "projects/01-card-validation": "1.1.0",
   "projects/01-cipher": "1.1.0",
   "projects/01-design-and-usability": "1.0.0",
   "projects/01-design-detectives": "1.0.0",
-  "projects/01-text-analyzer": "1.0.1",
+  "projects/01-text-analyzer": "1.0.2",
   "projects/02-data-lovers": "1.2.0",
   "projects/02-emergency-room": "1.0.0",
   "projects/02-memory-match": "1.0.0",
