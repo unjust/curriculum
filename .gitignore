@@ -98,3 +98,5 @@ yarn-error.log*
 **.[nN][sS][vV]
 
 projects/**/CHANGELOG.md
+**/CHANGELOG.md
+CHANGELOG.md
