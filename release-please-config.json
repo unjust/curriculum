@@ -2,19 +2,19 @@
   "packages": {
     ".": {
       "exclude-paths": ["topics"],
-      skipChangelog: true
+      "skipChangelog": true
     },
     "projects/01-card-validation": {
-      skipChangelog: true
+      "skipChangelog": true
     },
     "projects/01-cipher": {
-      skipChangelog: true
+      "skipChangelog": true
     },
     "projects/01-text-analyzer": {
-      skipChangelog: true
+      "skipChangelog": true
     },
     "projects/04-md-links": {
-      skipChangelog: true
+      "skipChangelog": true
     }
   },
   "bootstrap-sha": "61054a0bb06bf8a18091e264d67ce11e612a8cf8"
