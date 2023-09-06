@@ -105,24 +105,31 @@ const createIndexes = async (results) => {
   })));
 
   const resultsByType = resultsWithJson.reduce(
-    ({ projects, topics }, { type, json }) => { 
+    ({ projects, topics, learningObjectivesTable }, { type, json }) => { 
       const { units, ...rest } = json;
       if (type === 'project') {
         delete json.thumb;
         const learningObjectives = json.learningObjectives || [];
-        json.learningObjectivesTable = learningObjectives.map(objective => ({
-          "title": json.intl.es.title,
-          "slug": json.slug,
-          "path": json.path,
-          "track": json.track,
-          "intl": "es",
-          "learningObjective": objective
-        }));
-        Object.keys(learningObjectives.intl).forEach(lang => {});
+        let learningObjectivesByProject = [];
+        Object.keys(json.intl).forEach(lang => {
+          learningObjectivesByProject = [...learningObjectives.map(objective => ({
+              "title": json.intl[lang].title,
+              "slug": json.slug,
+              "path": json.path,
+              "track": json.track,
+              "intl": lang,
+              "learningObjective": objective
+            })), ...learningObjectivesByProject];
+      
+        });
+        json.learningObjectivesTable = learningObjectivesByProject;
       }
       return (
         type === 'project'
-          ? { projects: projects.concat(json), topics, learningObjectivesTable.concat(json.learningObjectivesTable)}
+          ? { projects: projects.concat(json),
+              topics,
+              learningObjectivesTable: learningObjectivesTable.concat(json.learningObjectivesTable)
+            }
           : { projects, topics: topics.concat(rest), learningObjectivesTable }
       );
     },
