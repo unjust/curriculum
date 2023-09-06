@@ -105,15 +105,28 @@ const createIndexes = async (results) => {
   })));
 
   const resultsByType = resultsWithJson.reduce(
-    ({ projects, topics }, { type, json }) => {
+    ({ projects, topics }, { type, json }) => { 
       const { units, ...rest } = json;
+      if (type === 'project') {
+        delete json.thumb;
+        const learningObjectives = json.learningObjectives || [];
+        json.learningObjectivesTable = learningObjectives.map(objective => ({
+          "title": json.intl.es.title,
+          "slug": json.slug,
+          "path": json.path,
+          "track": json.track,
+          "intl": "es",
+          "learningObjective": objective
+        }));
+        Object.keys(learningObjectives.intl).forEach(lang => {});
+      }
       return (
         type === 'project'
-          ? { projects: projects.concat(json), topics }
-          : { projects, topics: topics.concat(rest) }
+          ? { projects: projects.concat(json), topics, learningObjectivesTable.concat(json.learningObjectivesTable)}
+          : { projects, topics: topics.concat(rest), learningObjectivesTable }
       );
     },
-    { projects: [], topics: [] },
+    { projects: [], topics: [], learningObjectivesTable: [] },
   );
 
   await Promise.all(Object.keys(resultsByType).map(key => writeFile(
