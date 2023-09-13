@@ -3,8 +3,8 @@
   "repo": "Laboratoria/curriculum",
   "path": "projects/05-movie-challenge-fw",
   "version": "7.1.0",
-  "parserVersion": "5.0.0-beta.0",
-  "createdAt": "2023-09-13T14:13:08.514Z",
+  "parserVersion": "5.0.0",
+  "createdAt": "2023-09-13T14:44:42.448Z",
   "prefix": 5,
   "track": "web-dev",
   "learningObjectives": [
