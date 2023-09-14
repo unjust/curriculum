@@ -151,16 +151,11 @@ const addLearningObjectives = async () => {
   ]);
 
   const flat = flattenLearningObjectives(tree);
-  const json = {
-    tree,
-    flat,
-    intl: { es, pt },
-    table: flat.map(key => ({
+  const json = flat.map(key => ({
       key,
       es: es[key]?.title || es[key] || "",
       pt: pt[key]?.title || pt[key] || "",
-    })),
-  };
+    }));
 
   await writeFile(
     path.join(buildDir, 'learning-objectives.json'),
