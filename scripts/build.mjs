@@ -157,8 +157,8 @@ const addLearningObjectives = async () => {
     intl: { es, pt },
     table: flat.map(key => ({
       key,
-      es: es[key]?.title || es[key],
-      pt: pt[key]?.title || pt[key],
+      es: es[key]?.title || es[key] || "",
+      pt: pt[key]?.title || pt[key] || "",
     })),
   };
 

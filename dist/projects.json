@@ -5,7 +5,7 @@
     "path": "projects/00-how-might-we",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:22.913Z",
+    "createdAt": "2023-09-14T16:45:17.315Z",
     "prefix": 0,
     "track": "ux",
     "learningObjectives": [
@@ -89,7 +89,7 @@
     "path": "projects/00-trivia",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:23.045Z",
+    "createdAt": "2023-09-14T16:45:17.482Z",
     "prefix": 0,
     "track": "web-dev",
     "learningObjectives": [
@@ -335,7 +335,7 @@
     "path": "projects/01-card-validation",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:23.030Z",
+    "createdAt": "2023-09-14T16:45:17.467Z",
     "prefix": 1,
     "track": "web-dev",
     "learningObjectives": [
@@ -751,7 +751,7 @@
     "path": "projects/01-cipher",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:25.760Z",
+    "createdAt": "2023-09-14T16:45:19.507Z",
     "prefix": 1,
     "track": "web-dev",
     "learningObjectives": [
@@ -1167,7 +1167,7 @@
     "path": "projects/01-design-and-usability",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:25.583Z",
+    "createdAt": "2023-09-14T16:45:19.319Z",
     "prefix": 1,
     "track": "ux",
     "learningObjectives": [
@@ -1305,7 +1305,7 @@
     "path": "projects/01-design-detectives",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:25.585Z",
+    "createdAt": "2023-09-14T16:45:19.591Z",
     "prefix": 1,
     "track": "ux",
     "learningObjectives": [
@@ -1506,7 +1506,7 @@
     "path": "projects/01-text-analyzer",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:28.779Z",
+    "createdAt": "2023-09-14T16:45:21.911Z",
     "prefix": 1,
     "track": "web-dev",
     "learningObjectives": [
@@ -1922,7 +1922,7 @@
     "path": "projects/02-data-lovers",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:28.585Z",
+    "createdAt": "2023-09-14T16:45:21.734Z",
     "prefix": 2,
     "track": "web-dev",
     "learningObjectives": [
@@ -2440,7 +2440,7 @@
     "path": "projects/02-emergency-room",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:28.420Z",
+    "createdAt": "2023-09-14T16:45:21.720Z",
     "prefix": 2,
     "track": "web-dev",
     "learningObjectives": [
@@ -2958,7 +2958,7 @@
     "path": "projects/02-memory-match",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:31.306Z",
+    "createdAt": "2023-09-14T16:45:24.160Z",
     "prefix": 2,
     "track": "web-dev",
     "learningObjectives": [
@@ -3476,7 +3476,7 @@
     "path": "projects/02-mindset-mvp",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:30.977Z",
+    "createdAt": "2023-09-14T16:45:23.945Z",
     "prefix": 2,
     "track": "ux",
     "learningObjectives": [
@@ -3803,7 +3803,7 @@
     "path": "projects/02-movie-challenge",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:31.331Z",
+    "createdAt": "2023-09-14T16:45:24.182Z",
     "prefix": 2,
     "track": "web-dev",
     "learningObjectives": [
@@ -4321,7 +4321,7 @@
     "path": "projects/02-uxploradoras-ui",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:33.972Z",
+    "createdAt": "2023-09-14T16:45:26.169Z",
     "prefix": 2,
     "track": "ux",
     "learningObjectives": [
@@ -4369,7 +4369,7 @@
     "path": "projects/03-design-lab",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:34.012Z",
+    "createdAt": "2023-09-14T16:45:26.126Z",
     "prefix": 3,
     "track": "ux",
     "learningObjectives": [
@@ -4741,7 +4741,7 @@
     "path": "projects/03-social-network",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:34.241Z",
+    "createdAt": "2023-09-14T16:45:26.437Z",
     "prefix": 3,
     "track": "web-dev",
     "learningObjectives": [
@@ -5412,7 +5412,7 @@
     "path": "projects/03-uxploradoras-ux",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:36.699Z",
+    "createdAt": "2023-09-14T16:45:28.307Z",
     "prefix": 3,
     "track": "ux",
     "learningObjectives": [
@@ -5460,7 +5460,7 @@
     "path": "projects/04-burger-queen-api",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:37.038Z",
+    "createdAt": "2023-09-14T16:45:28.530Z",
     "prefix": 4,
     "track": "web-dev",
     "learningObjectives": [
@@ -6284,7 +6284,7 @@
     "path": "projects/04-burger-queen-api-client",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:36.998Z",
+    "createdAt": "2023-09-14T16:45:28.509Z",
     "prefix": 4,
     "track": "web-dev",
     "learningObjectives": [
@@ -7754,7 +7754,7 @@
     "path": "projects/04-md-links",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:39.634Z",
+    "createdAt": "2023-09-14T16:45:30.626Z",
     "prefix": 4,
     "track": "web-dev",
     "learningObjectives": [
@@ -8272,7 +8272,7 @@
     "path": "projects/04-notes",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:39.507Z",
+    "createdAt": "2023-09-14T16:45:30.462Z",
     "prefix": 4,
     "track": "web-dev",
     "learningObjectives": [
@@ -8779,7 +8779,7 @@
     "path": "projects/05-chat-app",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:39.419Z",
+    "createdAt": "2023-09-14T16:45:30.540Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -9277,7 +9277,7 @@
     "path": "projects/05-fleet-management-api",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:42.444Z",
+    "createdAt": "2023-09-14T16:45:32.693Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -9676,7 +9676,7 @@
     "path": "projects/05-fleet-management-fullstack",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:42.409Z",
+    "createdAt": "2023-09-14T16:45:32.684Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -10075,7 +10075,7 @@
     "path": "projects/05-movie-challenge-fw",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:42.448Z",
+    "createdAt": "2023-09-14T16:45:32.597Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -11545,7 +11545,7 @@
     "path": "projects/05-open-project",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:44.982Z",
+    "createdAt": "2023-09-14T16:45:34.652Z",
     "prefix": 5,
     "track": "web-dev",
     "intl": {
@@ -11563,7 +11563,7 @@
     "path": "projects/05-roman-numerals",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:45.109Z",
+    "createdAt": "2023-09-14T16:45:34.679Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -11791,7 +11791,7 @@
     "path": "projects/05-roman-numerals-slack",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:45.029Z",
+    "createdAt": "2023-09-14T16:45:34.772Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -12028,7 +12028,7 @@
     "path": "projects/05-social-network-fw",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:47.739Z",
+    "createdAt": "2023-09-14T16:45:36.686Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -12607,7 +12607,7 @@
     "path": "projects/05-wordpress-plugin",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:47.785Z",
+    "createdAt": "2023-09-14T16:45:36.610Z",
     "prefix": 5,
     "track": "web-dev",
     "learningObjectives": [
@@ -12844,7 +12844,7 @@
     "path": "projects/06-job-application",
     "version": "7.1.0",
     "parserVersion": "5.0.0",
-    "createdAt": "2023-09-13T14:44:47.821Z",
+    "createdAt": "2023-09-14T16:45:36.570Z",
     "prefix": 6,
     "track": "web-dev",
     "intl": {

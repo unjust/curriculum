@@ -4769,7 +4769,9 @@
       "pt": "JavaScript"
     },
     {
-      "key": "js/data-types"
+      "key": "js/data-types",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "js/data-types/primitive",
@@ -4822,7 +4824,9 @@
       "pt": "Recursão"
     },
     {
-      "key": "js/testing"
+      "key": "js/testing",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "js/testing/unit",
@@ -4850,7 +4854,9 @@
       "pt": "Teste de compatibilidade em vários ambientes de execução"
     },
     {
-      "key": "js/modules"
+      "key": "js/modules",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "js/modules/es-modules",
@@ -4878,7 +4884,9 @@
       "pt": "Diferença entre expressões (expressions) e declarações (statements)"
     },
     {
-      "key": "js/async"
+      "key": "js/async",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "js/async/callbacks",
@@ -4896,7 +4904,9 @@
       "pt": "Controle de Versões (Git e GitHub)"
     },
     {
-      "key": "scm/git"
+      "key": "scm/git",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "scm/git/setup",
@@ -4914,7 +4924,9 @@
       "pt": "Git: Integração de mudanças entre ramos (branch, checkout, fetch, merge, reset, rebase, tag)"
     },
     {
-      "key": "scm/github"
+      "key": "scm/github",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "scm/github/setup",
@@ -5142,13 +5154,19 @@
       "pt": "Firestore"
     },
     {
-      "key": "front-end-web-dev"
+      "key": "front-end-web-dev",
+      "es": "",
+      "pt": ""
     },
     {
-      "key": "front-end-web-dev/components"
+      "key": "front-end-web-dev/components",
+      "es": "",
+      "pt": ""
     },
     {
-      "key": "front-end-web-dev/state"
+      "key": "front-end-web-dev/state",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "angular",
@@ -5596,7 +5614,9 @@
       "pt": "PHP"
     },
     {
-      "key": "php/data-types"
+      "key": "php/data-types",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "php/data-types/primitive",
@@ -5629,7 +5649,9 @@
       "pt": "Funções em PHP (params, args, return)"
     },
     {
-      "key": "php/testing"
+      "key": "php/testing",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "php/testing/phpunit",
@@ -5642,7 +5664,9 @@
       "pt": "XDebug"
     },
     {
-      "key": "php/package-management"
+      "key": "php/package-management",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "php/package-management/composer",
@@ -5655,7 +5679,9 @@
       "pt": "WordPress"
     },
     {
-      "key": "wordpress/plugin-development"
+      "key": "wordpress/plugin-development",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "wordpress/plugin-development/hooks",
@@ -5713,10 +5739,14 @@
       "pt": "Publicar em WordPress Plugin Directory"
     },
     {
-      "key": "typescript"
+      "key": "typescript",
+      "es": "",
+      "pt": ""
     },
     {
-      "key": "typescript/basic-types"
+      "key": "typescript/basic-types",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "typescript/basic-types/static-type-checking",
@@ -5904,34 +5934,44 @@
       "pt": "Priming Chatbots"
     },
     {
-      "key": "agile-planning"
+      "key": "agile-planning",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "agile-planning/scope",
-      "es": "Definir alcance general"
+      "es": "Definir alcance general",
+      "pt": ""
     },
     {
       "key": "agile-planning/workplan",
-      "es": "Crear plan de trabajo"
+      "es": "Crear plan de trabajo",
+      "pt": ""
     },
     {
       "key": "agile-planning/tasks",
-      "es": "Gestionar tareas"
+      "es": "Gestionar tareas",
+      "pt": ""
     },
     {
-      "key": "business-understanding"
+      "key": "business-understanding",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "business-understanding/business-model",
-      "es": "Comprender el modelo de negocio"
+      "es": "Comprender el modelo de negocio",
+      "pt": ""
     },
     {
       "key": "business-understanding/goals-and-kpis",
-      "es": "Comprender objetivos e indicadores clave"
+      "es": "Comprender objetivos e indicadores clave",
+      "pt": ""
     },
     {
       "key": "business-understanding/benchmark",
-      "es": "Analizar competidores"
+      "es": "Analizar competidores",
+      "pt": ""
     },
     {
       "key": "research",
@@ -5985,187 +6025,248 @@
     },
     {
       "key": "research/planning/research-plan",
-      "es": "Definir la investigación"
+      "es": "Definir la investigación",
+      "pt": ""
     },
     {
       "key": "research/planning/desk-research",
-      "es": "Analizar información existente"
+      "es": "Analizar información existente",
+      "pt": ""
     },
     {
       "key": "research/planning/research-sample",
-      "es": "Definir muestra"
+      "es": "Definir muestra",
+      "pt": ""
     },
     {
       "key": "research/planning/participants",
-      "es": "Gestionar participantes"
+      "es": "Gestionar participantes",
+      "pt": ""
     },
     {
-      "key": "research/qualitative"
+      "key": "research/qualitative",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "research/qualitative/user-interviews",
-      "es": "Realizar entrevistas"
+      "es": "Realizar entrevistas",
+      "pt": ""
     },
     {
       "key": "research/qualitative/exploratory-techniques",
-      "es": "Explorar técnicas cualitativas"
+      "es": "Explorar técnicas cualitativas",
+      "pt": ""
     },
     {
-      "key": "research/quantitative"
+      "key": "research/quantitative",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "research/quantitative/user-surveys",
-      "es": "Realizar encuestas"
+      "es": "Realizar encuestas",
+      "pt": ""
     },
     {
       "key": "research/quantitative/analytical-techniques",
-      "es": "Explorar técnicas analíticas"
+      "es": "Explorar técnicas analíticas",
+      "pt": ""
     },
     {
-      "key": "research/analysis"
+      "key": "research/analysis",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "research/analysis/process-information",
-      "es": "Procesar información"
+      "es": "Procesar información",
+      "pt": ""
     },
     {
       "key": "research/analysis/experience-mapping",
-      "es": "Mapear la experiencia"
+      "es": "Mapear la experiencia",
+      "pt": ""
     },
     {
       "key": "research/analysis/identify-patterns",
-      "es": "Identificar patrones"
+      "es": "Identificar patrones",
+      "pt": ""
     },
     {
       "key": "research/analysis/synthesize-results",
-      "es": "Sintetizar resultados"
+      "es": "Sintetizar resultados",
+      "pt": ""
     },
     {
-      "key": "design-concept"
+      "key": "design-concept",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "design-concept/define-mvp",
-      "es": "Definir MVP"
+      "es": "Definir MVP",
+      "pt": ""
     },
     {
       "key": "design-concept/design-references",
-      "es": "Buscar inspiración"
+      "es": "Buscar inspiración",
+      "pt": ""
     },
     {
       "key": "design-concept/ideate",
-      "es": "Idear soluciones"
+      "es": "Idear soluciones",
+      "pt": ""
     },
     {
       "key": "design-concept/prioritize-ideas",
-      "es": "Priorizar ideas"
+      "es": "Priorizar ideas",
+      "pt": ""
     },
     {
-      "key": "interaction-design"
+      "key": "interaction-design",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "interaction-design/user-flows",
-      "es": "Crear flujos de usuario"
+      "es": "Crear flujos de usuario",
+      "pt": ""
     },
     {
       "key": "interaction-design/usability",
-      "es": "Utilizar principios de usabilidad"
+      "es": "Utilizar principios de usabilidad",
+      "pt": ""
     },
     {
       "key": "interaction-design/information-architecture",
-      "es": "Crear la arquitectura de información"
+      "es": "Crear la arquitectura de información",
+      "pt": ""
     },
     {
-      "key": "content-design"
+      "key": "content-design",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "content-design/voice-tone",
-      "es": "Definir guía de voz y tono"
+      "es": "Definir guía de voz y tono",
+      "pt": ""
     },
     {
       "key": "content-design/create-content",
-      "es": "Crear contenidos"
+      "es": "Crear contenidos",
+      "pt": ""
     },
     {
-      "key": "interface-design"
+      "key": "interface-design",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "interface-design/visual-design",
-      "es": "Crear propuesta de diseño visual"
+      "es": "Crear propuesta de diseño visual",
+      "pt": ""
     },
     {
       "key": "interface-design/accesibility",
-      "es": "Utilizar principios de accesibilidad"
+      "es": "Utilizar principios de accesibilidad",
+      "pt": ""
     },
     {
       "key": "interface-design/responsive-design",
-      "es": "Implementar diseño responsivo"
+      "es": "Implementar diseño responsivo",
+      "pt": ""
     },
     {
-      "key": "design-prototype"
+      "key": "design-prototype",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "design-prototype/basic-prototypes",
-      "es": "Crear prototipos básicos"
+      "es": "Crear prototipos básicos",
+      "pt": ""
     },
     {
       "key": "design-prototype/high-fidelity",
-      "es": "Crear prototipos en alta fidelidad"
+      "es": "Crear prototipos en alta fidelidad",
+      "pt": ""
     },
     {
       "key": "design-prototype/advanced-interactions",
-      "es": "Utilizar interacciones avanzadas"
+      "es": "Utilizar interacciones avanzadas",
+      "pt": ""
     },
     {
-      "key": "usability-analysis"
+      "key": "usability-analysis",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "usability-analysis/moderated-testing",
-      "es": "Realizar pruebas moderadas"
+      "es": "Realizar pruebas moderadas",
+      "pt": ""
     },
     {
       "key": "usability-analysis/heuristic-analysis",
-      "es": "Realizar análisis heurísticos"
+      "es": "Realizar análisis heurísticos",
+      "pt": ""
     },
     {
       "key": "usability-analysis/non-moderated-testing",
-      "es": "Realizar pruebas no-moderadas"
+      "es": "Realizar pruebas no-moderadas",
+      "pt": ""
     },
     {
-      "key": "design-pitch"
+      "key": "design-pitch",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "design-pitch/design-feedback",
-      "es": "Recolectar feedback de diseño"
+      "es": "Recolectar feedback de diseño",
+      "pt": ""
     },
     {
       "key": "design-pitch/design-presentation",
-      "es": "Presentar ante el negocio"
+      "es": "Presentar ante el negocio",
+      "pt": ""
     },
     {
-      "key": "design-specs"
+      "key": "design-specs",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "design-specs/file-organization",
-      "es": "Organizar documentos de Figma"
+      "es": "Organizar documentos de Figma",
+      "pt": ""
     },
     {
       "key": "design-specs/use-cases",
-      "es": "Documentar casos de uso"
+      "es": "Documentar casos de uso",
+      "pt": ""
     },
     {
       "key": "design-specs/project-documentation",
-      "es": "Documentar el proyecto de diseño"
+      "es": "Documentar el proyecto de diseño",
+      "pt": ""
     },
     {
-      "key": "design-systems"
+      "key": "design-systems",
+      "es": "",
+      "pt": ""
     },
     {
       "key": "design-systems/atomic-design",
-      "es": "Implementar Atomic Design"
+      "es": "Implementar Atomic Design",
+      "pt": ""
     },
     {
       "key": "design-systems/design-system",
-      "es": "Utilizar sistemas de diseño"
+      "es": "Utilizar sistemas de diseño",
+      "pt": ""
     }
   ]
 }
