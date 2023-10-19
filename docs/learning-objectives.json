@@ -1250,6 +1250,11 @@
     "pt": "Priming Chatbots"
   },
   {
+    "key": "ai-prompting/open-ai-api",
+    "es": "OpenAI API",
+    "pt": "OpenAI API"
+  },
+  {
     "key": "agile-planning",
     "es": "",
     "pt": ""

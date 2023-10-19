@@ -2096,6 +2096,598 @@
     "learningObjective": "research/test"
   },
   {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "html/semantics"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/selectors"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/box-model"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/flexbox"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/dom/selectors"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/dom/events"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/dom/manipulation"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/data-types/primitive-vs-non-primitive"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/data-types/arrays"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/data-types/objects"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/variables"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/conditionals"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/loops"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/functions"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/testing/unit"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/modules/es-modules"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/linting"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/semantics"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/expression-vs-statement"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/git/setup"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/git/intro"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/git/integration"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/github/setup"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/github/gh-pages"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/github/collaboration"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "user-centricity/centricity"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "product-design/interactivity"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "product-design/visual-design"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "research/test"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "ai-prompting/giving-instructions"
+  },
+  {
+    "title": "Dataverse",
+    "slug": "dataverse",
+    "path": "projects/02-dataverse",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "ai-prompting/few-shot-prompting"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "agile-planning/scope"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "agile-planning/workplan"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "agile-planning/tasks"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "business-understanding/business-model"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "business-understanding/goals-and-kpis"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "business-understanding/benchmark"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/research-plan"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/desk-research"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/research-sample"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/participants"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/qualitative/user-interviews"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/qualitative/exploratory-techniques"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/quantitative/user-surveys"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/quantitative/analytical-techniques"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/process-information"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/experience-mapping"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/identify-patterns"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/synthesize-results"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-concept/define-mvp"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-concept/design-references"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-concept/ideate"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-concept/prioritize-ideas"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interaction-design/user-flows"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interaction-design/usability"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interaction-design/information-architecture"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "content-design/voice-tone"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "content-design/create-content"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interface-design/visual-design"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interface-design/accesibility"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interface-design/responsive-design"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-prototype/basic-prototypes"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-prototype/high-fidelity"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-prototype/advanced-interactions"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "usability-analysis/moderated-testing"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "usability-analysis/heuristic-analysis"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "usability-analysis/non-moderated-testing"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-pitch/design-feedback"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-pitch/design-presentation"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/file-organization"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/use-cases"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/project-documentation"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-systems/atomic-design"
+  },
+  {
+    "title": "Proyecto asignado",
+    "slug": "design-assigned",
+    "path": "projects/02-design-assigned",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-systems/design-system"
+  },
+  {
     "title": "Projeto de extensão: Sala de Emergências",
     "slug": "emergency-room",
     "path": "projects/02-emergency-room",
@@ -3760,7 +4352,7 @@
     "learningObjective": "research/test"
   },
   {
-    "title": "UXploradoras en el multiverso UI",
+    "title": "UXploradoras UI",
     "slug": "uxploradoras-ui",
     "path": "projects/02-uxploradoras-ui",
     "track": "ux",
@@ -3768,7 +4360,7 @@
     "learningObjective": "agile-planning/scope"
   },
   {
-    "title": "UXploradoras en el multiverso UI",
+    "title": "UXploradoras UI",
     "slug": "uxploradoras-ui",
     "path": "projects/02-uxploradoras-ui",
     "track": "ux",
@@ -3776,12 +4368,460 @@
     "learningObjective": "agile-planning/workplan"
   },
   {
-    "title": "UXploradoras en el multiverso UI",
+    "title": "UXploradoras UI",
     "slug": "uxploradoras-ui",
     "path": "projects/02-uxploradoras-ui",
     "track": "ux",
     "intl": "es",
     "learningObjective": "agile-planning/tasks"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/research-plan"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/research-sample"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/participants"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "content-design/voice-tone"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "content-design/create-content"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interface-design/visual-design"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interface-design/accesibility"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-prototype/basic-prototypes"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "usability-analysis/non-moderated-testing"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-pitch/design-feedback"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-pitch/design-presentation"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/file-organization"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/use-cases"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/project-documentation"
+  },
+  {
+    "title": "UXploradoras UI",
+    "slug": "uxploradoras-ui",
+    "path": "projects/02-uxploradoras-ui",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-systems/atomic-design"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "html/semantics"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/selectors"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/box-model"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/flexbox"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "css/grid"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/dom/selectors"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/dom/events"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/dom/manipulation"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/routing"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/storage"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "browser/fetch"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/async/callbacks"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/async/promises"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/semantics"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/variables"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/functions"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/conditionals"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/data-types/primitive-vs-non-primitive"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/data-types/arrays"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/data-types/objects"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/expression-vs-statement"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/loops"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/modules/es-modules"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/testing/unit"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/testing/async"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "js/testing/mocks"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "http/headers"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "http/request-response"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "http/status-codes"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "ai-prompting/priming-chatbots"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "ai-prompting/open-ai-api"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/git/setup"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/git/intro"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/git/integration"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/github/setup"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/github/gh-pages"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "scm/github/collaboration"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "user-centricity/centricity"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "product-design/interactivity"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "product-design/visual-design"
+  },
+  {
+    "title": "Dataverse Chat",
+    "slug": "dataverse-chat",
+    "path": "projects/03-dataverse-chat",
+    "track": "web-dev",
+    "intl": "es",
+    "learningObjective": "research/test"
   },
   {
     "title": "Design Lab",
@@ -3989,6 +5029,14 @@
     "path": "projects/03-design-lab",
     "track": "ux",
     "intl": "es",
+    "learningObjective": "content-design/voice-tone"
+  },
+  {
+    "title": "Design Lab",
+    "slug": "design-lab",
+    "path": "projects/03-design-lab",
+    "track": "ux",
+    "intl": "es",
     "learningObjective": "content-design/create-content"
   },
   {
@@ -4013,6 +5061,14 @@
     "path": "projects/03-design-lab",
     "track": "ux",
     "intl": "es",
+    "learningObjective": "interface-design/responsive-design"
+  },
+  {
+    "title": "Design Lab",
+    "slug": "design-lab",
+    "path": "projects/03-design-lab",
+    "track": "ux",
+    "intl": "es",
     "learningObjective": "design-prototype/basic-prototypes"
   },
   {
@@ -4029,6 +5085,14 @@
     "path": "projects/03-design-lab",
     "track": "ux",
     "intl": "es",
+    "learningObjective": "design-prototype/advanced-interactions"
+  },
+  {
+    "title": "Design Lab",
+    "slug": "design-lab",
+    "path": "projects/03-design-lab",
+    "track": "ux",
+    "intl": "es",
     "learningObjective": "usability-analysis/moderated-testing"
   },
   {
@@ -4038,6 +5102,14 @@
     "track": "ux",
     "intl": "es",
     "learningObjective": "usability-analysis/heuristic-analysis"
+  },
+  {
+    "title": "Design Lab",
+    "slug": "design-lab",
+    "path": "projects/03-design-lab",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "usability-analysis/non-moderated-testing"
   },
   {
     "title": "Design Lab",
@@ -4704,7 +5776,7 @@
     "learningObjective": "firebase/firestore"
   },
   {
-    "title": "UXploradoras en el laberinto UX",
+    "title": "UXploradoras UX",
     "slug": "uxploradoras-ux",
     "path": "projects/03-uxploradoras-ux",
     "track": "ux",
@@ -4712,7 +5784,7 @@
     "learningObjective": "agile-planning/scope"
   },
   {
-    "title": "UXploradoras en el laberinto UX",
+    "title": "UXploradoras UX",
     "slug": "uxploradoras-ux",
     "path": "projects/03-uxploradoras-ux",
     "track": "ux",
@@ -4720,12 +5792,172 @@
     "learningObjective": "agile-planning/workplan"
   },
   {
-    "title": "UXploradoras en el laberinto UX",
+    "title": "UXploradoras UX",
     "slug": "uxploradoras-ux",
     "path": "projects/03-uxploradoras-ux",
     "track": "ux",
     "intl": "es",
     "learningObjective": "agile-planning/tasks"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/research-plan"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/research-sample"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/planning/participants"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/quantitative/user-surveys"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/quantitative/analytical-techniques"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/process-information"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/experience-mapping"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/identify-patterns"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "research/analysis/synthesize-results"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interaction-design/user-flows"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interaction-design/usability"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "interaction-design/information-architecture"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "content-design/voice-tone"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "content-design/create-content"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-prototype/basic-prototypes"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "usability-analysis/non-moderated-testing"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-pitch/design-feedback"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-pitch/design-presentation"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/file-organization"
+  },
+  {
+    "title": "UXploradoras UX",
+    "slug": "uxploradoras-ux",
+    "path": "projects/03-uxploradoras-ux",
+    "track": "ux",
+    "intl": "es",
+    "learningObjective": "design-specs/project-documentation"
   },
   {
     "title": "Burger Queen - API com Node.js",
@@ -8832,7 +10064,7 @@
     "learningObjective": "angular/styles"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8840,7 +10072,7 @@
     "learningObjective": "html/semantics"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8848,7 +10080,7 @@
     "learningObjective": "css/selectors"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8856,7 +10088,7 @@
     "learningObjective": "css/box-model"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8864,7 +10096,7 @@
     "learningObjective": "css/flexbox"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8872,7 +10104,7 @@
     "learningObjective": "css/grid"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8880,7 +10112,7 @@
     "learningObjective": "css/media-queries"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8888,7 +10120,7 @@
     "learningObjective": "js/testing/unit"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8896,7 +10128,7 @@
     "learningObjective": "js/testing/async"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8904,7 +10136,7 @@
     "learningObjective": "js/testing/mocks"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8912,7 +10144,7 @@
     "learningObjective": "js/modules/es-modules"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8920,7 +10152,7 @@
     "learningObjective": "js/linting"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8928,7 +10160,7 @@
     "learningObjective": "js/semantics"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8936,7 +10168,7 @@
     "learningObjective": "scm/git/setup"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8944,7 +10176,7 @@
     "learningObjective": "scm/git/intro"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8952,7 +10184,7 @@
     "learningObjective": "scm/git/integration"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8960,7 +10192,7 @@
     "learningObjective": "scm/github/setup"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8968,7 +10200,7 @@
     "learningObjective": "scm/github/gh-pages"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8976,7 +10208,7 @@
     "learningObjective": "scm/github/collaboration"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8984,7 +10216,7 @@
     "learningObjective": "scm/github/project-management"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -8992,7 +10224,7 @@
     "learningObjective": "http/request-response"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9000,7 +10232,7 @@
     "learningObjective": "http/headers"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9008,7 +10240,7 @@
     "learningObjective": "http/body"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9016,7 +10248,7 @@
     "learningObjective": "http/verbs"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9024,7 +10256,7 @@
     "learningObjective": "http/status-codes"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9032,7 +10264,7 @@
     "learningObjective": "http/json"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9040,7 +10272,7 @@
     "learningObjective": "http/cors"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9048,7 +10280,7 @@
     "learningObjective": "angular/components-and-templates"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9056,7 +10288,7 @@
     "learningObjective": "angular/structural-directives"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9064,7 +10296,7 @@
     "learningObjective": "angular/input-output"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9072,7 +10304,7 @@
     "learningObjective": "angular/services"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9080,7 +10312,7 @@
     "learningObjective": "angular/routing"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9088,7 +10320,7 @@
     "learningObjective": "angular/observables"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9096,7 +10328,7 @@
     "learningObjective": "angular/http-client"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9104,7 +10336,7 @@
     "learningObjective": "angular/styles"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9112,7 +10344,7 @@
     "learningObjective": "react/jsx"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9120,7 +10352,7 @@
     "learningObjective": "react/components"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9128,7 +10360,7 @@
     "learningObjective": "react/events"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9136,7 +10368,7 @@
     "learningObjective": "react/lists-and-keys"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9144,7 +10376,7 @@
     "learningObjective": "react/conditional-rendering"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9152,7 +10384,7 @@
     "learningObjective": "react/lifting-up-state"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9160,7 +10392,7 @@
     "learningObjective": "react/hooks"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9168,7 +10400,7 @@
     "learningObjective": "react/css-modules"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9176,7 +10408,7 @@
     "learningObjective": "react/routing"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9184,7 +10416,7 @@
     "learningObjective": "vue/instance"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9192,7 +10424,7 @@
     "learningObjective": "vue/data-and-methods"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9200,7 +10432,7 @@
     "learningObjective": "vue/components"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9208,7 +10440,7 @@
     "learningObjective": "vue/props"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9216,7 +10448,7 @@
     "learningObjective": "vue/directives"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9224,7 +10456,7 @@
     "learningObjective": "vue/iteration"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9232,7 +10464,7 @@
     "learningObjective": "vue/events"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9240,7 +10472,7 @@
     "learningObjective": "vue/computed-props-and-observers"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9248,7 +10480,7 @@
     "learningObjective": "vue/routing"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9256,7 +10488,7 @@
     "learningObjective": "vue/classes-and-styles"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9264,7 +10496,7 @@
     "learningObjective": "typescript/basic-types/static-type-checking"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9272,7 +10504,7 @@
     "learningObjective": "typescript/basic-types/strictness"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9280,7 +10512,7 @@
     "learningObjective": "typescript/basic-types/primitives"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9288,7 +10520,7 @@
     "learningObjective": "typescript/basic-types/arrays"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9296,7 +10528,7 @@
     "learningObjective": "typescript/basic-types/any"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9304,7 +10536,7 @@
     "learningObjective": "typescript/basic-types/functions"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9312,7 +10544,7 @@
     "learningObjective": "typescript/basic-types/object-types/optional-properties"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9320,7 +10552,7 @@
     "learningObjective": "typescript/basic-types/union-types"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9328,7 +10560,7 @@
     "learningObjective": "typescript/basic-types/type-aliases"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9336,7 +10568,7 @@
     "learningObjective": "typescript/basic-types/interfaces"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9344,7 +10576,7 @@
     "learningObjective": "typescript/basic-types/type-assertions"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9352,7 +10584,7 @@
     "learningObjective": "typescript/basic-types/literal-types"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9360,7 +10592,7 @@
     "learningObjective": "typescript/basic-types/null-and-undefined"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9368,7 +10600,7 @@
     "learningObjective": "typescript/basic-types/enums"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9376,7 +10608,7 @@
     "learningObjective": "typescript/narrowing"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9384,7 +10616,7 @@
     "learningObjective": "typescript/classes/members/fields"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9392,7 +10624,7 @@
     "learningObjective": "typescript/classes/members/constructors"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9400,7 +10632,7 @@
     "learningObjective": "typescript/classes/members/methods"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9408,7 +10640,7 @@
     "learningObjective": "typescript/classes/members/getter-setters"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9416,7 +10648,7 @@
     "learningObjective": "typescript/classes/class-heritage/implements"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9424,7 +10656,7 @@
     "learningObjective": "typescript/classes/class-heritage/extends"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9432,7 +10664,7 @@
     "learningObjective": "typescript/classes/member-visibility/public"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9440,7 +10672,7 @@
     "learningObjective": "typescript/classes/member-visibility/protected"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9448,7 +10680,7 @@
     "learningObjective": "typescript/classes/member-visibility/private"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9456,7 +10688,7 @@
     "learningObjective": "typescript/classes/static-members"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9464,7 +10696,7 @@
     "learningObjective": "typescript/classes/this"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9472,7 +10704,7 @@
     "learningObjective": "typescript/classes/abstract-classes"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9480,15 +10712,7 @@
     "learningObjective": "typescript/decorators"
   },
   {
-    "title": "Desafio de Filmes com Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "pt",
-    "learningObjective": "user-centricity/centricity"
-  },
-  {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
@@ -9496,20 +10720,12 @@
     "learningObjective": "product-design/interactivity"
   },
   {
-    "title": "Desafio de Filmes com Framework",
+    "title": "Movie Challenge con Framework",
     "slug": "movie-challenge-fw",
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
     "intl": "pt",
     "learningObjective": "product-design/visual-design"
-  },
-  {
-    "title": "Desafio de Filmes com Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "pt",
-    "learningObjective": "research/test"
   },
   {
     "title": "Movie Challenge con Framework",
@@ -10165,14 +11381,6 @@
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
     "intl": "es",
-    "learningObjective": "user-centricity/centricity"
-  },
-  {
-    "title": "Movie Challenge con Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "es",
     "learningObjective": "product-design/interactivity"
   },
   {
@@ -10182,14 +11390,6 @@
     "track": "web-dev",
     "intl": "es",
     "learningObjective": "product-design/visual-design"
-  },
-  {
-    "title": "Movie Challenge con Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "es",
-    "learningObjective": "research/test"
   },
   {
     "title": "Números romanos",

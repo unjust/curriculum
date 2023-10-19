@@ -122,7 +122,7 @@ const createIndexes = async (results) => {
             })), ...learningObjectivesByProject];
       
         });
-        // json.learningObjectivesTable = learningObjectivesByProject;
+        json.learningObjectivesTable = learningObjectivesByProject;
       }
       return (
         type === 'project'

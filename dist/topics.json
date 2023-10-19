@@ -5,7 +5,7 @@
     "path": "topics/browser",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:00.688Z",
+    "createdAt": "2023-10-19T14:49:02.032Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -26,7 +26,7 @@
     "path": "topics/content-management",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:43:58.840Z",
+    "createdAt": "2023-10-19T14:49:00.867Z",
     "track": "ux",
     "intl": {
       "es": {
@@ -43,7 +43,7 @@
     "path": "topics/css",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:00.360Z",
+    "createdAt": "2023-10-19T14:49:01.899Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -64,7 +64,7 @@
     "path": "topics/functional",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:06.878Z",
+    "createdAt": "2023-10-19T14:49:05.515Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -81,7 +81,7 @@
     "path": "topics/html",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:06.267Z",
+    "createdAt": "2023-10-19T14:49:05.265Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -102,7 +102,7 @@
     "path": "topics/interaction-design",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:06.413Z",
+    "createdAt": "2023-10-19T14:49:05.164Z",
     "track": "ux",
     "intl": {
       "es": {
@@ -119,7 +119,7 @@
     "path": "topics/intro-ux",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:14.493Z",
+    "createdAt": "2023-10-19T14:49:08.248Z",
     "track": "ux",
     "intl": {
       "es": {
@@ -136,7 +136,7 @@
     "path": "topics/javascript",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:18.630Z",
+    "createdAt": "2023-10-19T14:49:09.443Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -157,7 +157,7 @@
     "path": "topics/learning-mindset",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:14.079Z",
+    "createdAt": "2023-10-19T14:49:08.042Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -174,7 +174,7 @@
     "path": "topics/paradigms",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:26.265Z",
+    "createdAt": "2023-10-19T14:49:12.917Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -191,7 +191,7 @@
     "path": "topics/prototyping",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:25.260Z",
+    "createdAt": "2023-10-19T14:49:12.418Z",
     "track": "ux",
     "intl": {
       "es": {
@@ -208,7 +208,7 @@
     "path": "topics/scm",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:25.612Z",
+    "createdAt": "2023-10-19T14:49:12.685Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -229,7 +229,7 @@
     "path": "topics/shell",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:28.865Z",
+    "createdAt": "2023-10-19T14:49:14.694Z",
     "track": "web-dev",
     "intl": {
       "es": {
@@ -250,7 +250,7 @@
     "path": "topics/ux-research",
     "version": "7.3.0",
     "parserVersion": "5.1.0",
-    "createdAt": "2023-10-16T17:44:29.271Z",
+    "createdAt": "2023-10-19T14:49:14.950Z",
     "track": "ux",
     "intl": {
       "es": {
