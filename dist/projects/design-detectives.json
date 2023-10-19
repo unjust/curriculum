@@ -2,9 +2,9 @@
   "slug": "design-detectives",
   "repo": "Laboratoria/curriculum",
   "path": "projects/01-design-detectives",
-  "version": "7.1.0",
-  "parserVersion": "5.0.0",
-  "createdAt": "2023-09-14T17:38:20.668Z",
+  "version": "7.3.0",
+  "parserVersion": "5.1.0",
+  "createdAt": "2023-10-16T17:43:22.268Z",
   "prefix": 1,
   "track": "ux",
   "learningObjectives": [

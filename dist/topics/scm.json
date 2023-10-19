@@ -2,9 +2,9 @@
   "slug": "scm",
   "repo": "Laboratoria/curriculum",
   "path": "topics/scm",
-  "version": "7.1.0",
-  "parserVersion": "5.0.0",
-  "createdAt": "2023-09-14T17:39:09.810Z",
+  "version": "7.3.0",
+  "parserVersion": "5.1.0",
+  "createdAt": "2023-10-16T17:44:25.612Z",
   "track": "web-dev",
   "intl": {
     "es": {
