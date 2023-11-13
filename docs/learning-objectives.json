@@ -1191,23 +1191,8 @@
   },
   {
     "key": "typescript/classes/member-visibility",
-    "es": "Visibilidad de miembros de clase",
-    "pt": "Visibilidade dos membros da classe"
-  },
-  {
-    "key": "typescript/classes/member-visibility/public",
-    "es": "public",
-    "pt": "public"
-  },
-  {
-    "key": "typescript/classes/member-visibility/protected",
-    "es": "protected",
-    "pt": "protected"
-  },
-  {
-    "key": "typescript/classes/member-visibility/private",
-    "es": "private",
-    "pt": "private"
+    "es": "Visibilidad de miembros de clase (public, protected, private)",
+    "pt": "Visibilidade dos membros da classe (public, private, protected)"
   },
   {
     "key": "typescript/classes/static-members",

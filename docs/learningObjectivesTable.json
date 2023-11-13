@@ -7309,23 +7309,7 @@
     "path": "projects/04-burger-queen-api-client",
     "track": "web-dev",
     "intl": "pt",
-    "learningObjective": "typescript/classes/member-visibility/public"
-  },
-  {
-    "title": "Burger Queen (API Client)",
-    "slug": "burger-queen-api-client",
-    "path": "projects/04-burger-queen-api-client",
-    "track": "web-dev",
-    "intl": "pt",
-    "learningObjective": "typescript/classes/member-visibility/protected"
-  },
-  {
-    "title": "Burger Queen (API Client)",
-    "slug": "burger-queen-api-client",
-    "path": "projects/04-burger-queen-api-client",
-    "track": "web-dev",
-    "intl": "pt",
-    "learningObjective": "typescript/classes/member-visibility/private"
+    "learningObjective": "typescript/classes/member-visibility"
   },
   {
     "title": "Burger Queen (API Client)",
@@ -7989,23 +7973,7 @@
     "path": "projects/04-burger-queen-api-client",
     "track": "web-dev",
     "intl": "es",
-    "learningObjective": "typescript/classes/member-visibility/public"
-  },
-  {
-    "title": "Burger Queen (API Client)",
-    "slug": "burger-queen-api-client",
-    "path": "projects/04-burger-queen-api-client",
-    "track": "web-dev",
-    "intl": "es",
-    "learningObjective": "typescript/classes/member-visibility/protected"
-  },
-  {
-    "title": "Burger Queen (API Client)",
-    "slug": "burger-queen-api-client",
-    "path": "projects/04-burger-queen-api-client",
-    "track": "web-dev",
-    "intl": "es",
-    "learningObjective": "typescript/classes/member-visibility/private"
+    "learningObjective": "typescript/classes/member-visibility"
   },
   {
     "title": "Burger Queen (API Client)",
@@ -10661,23 +10629,7 @@
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
     "intl": "pt",
-    "learningObjective": "typescript/classes/member-visibility/public"
-  },
-  {
-    "title": "Movie Challenge con Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "pt",
-    "learningObjective": "typescript/classes/member-visibility/protected"
-  },
-  {
-    "title": "Movie Challenge con Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "pt",
-    "learningObjective": "typescript/classes/member-visibility/private"
+    "learningObjective": "typescript/classes/member-visibility"
   },
   {
     "title": "Movie Challenge con Framework",
@@ -11325,23 +11277,7 @@
     "path": "projects/05-movie-challenge-fw",
     "track": "web-dev",
     "intl": "es",
-    "learningObjective": "typescript/classes/member-visibility/public"
-  },
-  {
-    "title": "Movie Challenge con Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "es",
-    "learningObjective": "typescript/classes/member-visibility/protected"
-  },
-  {
-    "title": "Movie Challenge con Framework",
-    "slug": "movie-challenge-fw",
-    "path": "projects/05-movie-challenge-fw",
-    "track": "web-dev",
-    "intl": "es",
-    "learningObjective": "typescript/classes/member-visibility/private"
+    "learningObjective": "typescript/classes/member-visibility"
   },
   {
     "title": "Movie Challenge con Framework",
