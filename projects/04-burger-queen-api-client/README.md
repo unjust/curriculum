@@ -91,7 +91,10 @@ con todos sus _productos_. La usuaria debe poder ir eligiendo qué _productos_
 agregar y la interfaz debe ir mostrando el _resumen del pedido_ con el
 costo total.
 
-![out](https://user-images.githubusercontent.com/110297/45984241-b8b51c00-c025-11e8-8fa4-a390016bee9d.gif)
+<image src="https://user-images.githubusercontent.com/110297/45984241-b8b51c00-c025-11e8-8fa4-a390016bee9d.gif" alt="example of UI interface" aria-describedby="ui-description" />
+
+<p id="ui-description">In the image you see a screenshot with button controls on the left side for adding menu items. The buttons are big enough to touch on a mobile screen.
+When a menu item button is touched, the view on the right hand side that lists the items, quantities and prices updates.</p>
 
 Además la clienta nos ha dado un [link a la documentación](https://app.swaggerhub.com/apis-docs/ssinuco/BurgerQueenAPI/2.0.0)
 que especifica el comportamiento esperado de la API HTTP que deberás consumir.
